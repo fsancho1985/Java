@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\fr_sa\OneDrive\Unime\Análise de Sistemas\Atividade extracurricular\Curso_Java\Programas_Java\.metadata\.plugins\org.eclipse.jdt.core
+1872563506.index
